@@ -7,3 +7,9 @@
 [Font Awesome Icons](http://creativedo.co/FontAwesomePS)
 
 [Red Line Specs Extension](http://ink.chrometaphore.com)
+
+[Red Line Specs Extension](http://ink.chrometaphore.com)
+
+## Alternative for Ink Extension is this script
+
+[Size Marks](https://github.com/cmpereirasi/Size-Marks-PS)
