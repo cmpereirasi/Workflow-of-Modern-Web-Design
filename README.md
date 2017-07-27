@@ -8,8 +8,18 @@
 
 [Red Line Specs Extension](http://ink.chrometaphore.com)
 
-[Red Line Specs Extension](http://ink.chrometaphore.com)
 
 ## Alternative for Ink Extension is this script
 
 [Size Marks](https://github.com/cmpereirasi/Size-Marks-PS)
+
+[Uber Faces](http://uberplugins.cc/)
+
+### One Premium Paid Plugin used in this Course
+
+[GUIDEGUIDE(costs $10)](http://guideguide.me)
+
+or download old versions FREE
+
+[FREE](http://guideguide.me/versions)
+
