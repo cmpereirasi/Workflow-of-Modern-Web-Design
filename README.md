@@ -19,7 +19,7 @@
 
 [GUIDEGUIDE(costs $10)](http://guideguide.me)
 
-or download old versions FREE
+or download old versions [FREE](http://guideguide.me/versions)
 
-[FREE](http://guideguide.me/versions)
+
 
