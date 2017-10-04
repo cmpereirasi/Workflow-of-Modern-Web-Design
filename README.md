@@ -63,7 +63,7 @@ or download old versions [FREE](http://guideguide.me/versions)
 
 
 
-### Tools for Selecting Type Scale
+### Tools for Selecting Type Scales
 
 [Modular Scale](http://www.modularscale.com)
 
