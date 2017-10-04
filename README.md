@@ -33,3 +33,16 @@ or download old versions [FREE](http://guideguide.me/versions)
 
 
 [PSD medialoot UI Style Guide Template](https://medialoot.com/item/ui-style-guide-template/)
+
+
+### Examples of Great Web & UI Style Guides
+
+[Yelp](https://www.yelp.com/styleguide)
+
+[Code For America](http://codeforamerica.clearleft.com/)
+
+[Mailchimp](http://ux.mailchimp.com/patterns/tables)
+
+[Website Style Guide Resources](http://styleguides.io/)
+
+[Mailchimp](http://ux.mailchimp.com/patterns/tables)
