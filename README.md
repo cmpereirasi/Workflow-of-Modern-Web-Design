@@ -30,3 +30,6 @@ or download old versions [FREE](http://guideguide.me/versions)
 ### Download UI Style Guide
 
 [wireframes-styleguides-mockup](https://drive.google.com/file/d/0B_2wCrcxZBiuM1RRbkxId1dHRzg/view?usp=sharing)
+
+
+[PSD medialoot UI Style Guide Template](https://medialoot.com/item/ui-style-guide-template/)
