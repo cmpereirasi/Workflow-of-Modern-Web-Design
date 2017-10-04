@@ -25,3 +25,8 @@ or download old versions [FREE](http://guideguide.me/versions)
 ### More questions to ask during Web Design Project
 
 [100+ Questions You Must Ask When Developing A Website](http://marketingland.com/100-questions-you-must-ask-when-developing-web-site-86342)
+
+
+### Download UI Style Guide
+
+[wireframes-styleguides-mockup](https://drive.google.com/file/d/0B_2wCrcxZBiuM1RRbkxId1dHRzg/view?usp=sharing)
